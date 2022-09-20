@@ -10,11 +10,12 @@
   - HTLML
   - CSS
   - JAVASCRIPT
-  - NODE JS
+  
   
 ## Backend
 
 - JAVA/springboot
+- NODE JS
 
 
 ## DATA BASE
