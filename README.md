@@ -1,6 +1,6 @@
 # TallerFinalBingo
-SOFKA U Cantera 2
-Se hace entrega de un video juego en linea, mas conocido como BINGO.
+
+ Video juego en linea, mas conocido como BINGO.
 
 
 # Tecnologias Utilizadas
