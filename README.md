@@ -1,4 +1,4 @@
-# TallerFinalBingo
+# Bingo virtual
 
  Video juego en linea, mas conocido como BINGO.
 
